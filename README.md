@@ -47,7 +47,7 @@ El sistema aprovecha **AWS CloudFront** para entregar contenido estático y mini
 ## Requisitos Técnicos
 
 - **Lenguajes y Frameworks**:
-  - Front-End: React/Angular para SPA, Flutter/React Native para móvil.
+  - Front-End: React para SPA, Flutter/React Native para móvil.
   - Back-End: Node.js/Java Spring en microservicios.
 
 - **Herramientas de Infraestructura**:
